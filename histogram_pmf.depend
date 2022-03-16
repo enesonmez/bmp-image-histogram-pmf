@@ -1,8 +1,9 @@
 # depslib dependency file v1.0
-1647377950 source:c:\users\enes\desktop\histogram_pmf\main.cpp
+1647420174 source:c:\users\enes\desktop\histogram_pmf\main.cpp
 	<iostream>
 	<vector>
 	<cmath>
+	<string>
 	"bmp.cpp"
 
 1647366975 c:\users\enes\desktop\histogram_pmf\bmp.cpp
